@@ -4984,7 +4984,7 @@ figure {
   grid-column-gap: var(--_size-variables---element-spacing--2xl);
   grid-row-gap: var(--_size-variables---element-spacing--2xl);
   grid-template-rows: auto auto;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   grid-auto-columns: 1fr;
   display: grid;
 }

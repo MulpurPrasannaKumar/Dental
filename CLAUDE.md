@@ -32,7 +32,7 @@ deletes images during a re-skin, nothing ever shows a broken/gray/red box — it
 
 ## Brand
 - Name: **Lumora Dental**. Accent teal `#24a3b1`; deep teal `#011f23` / `#022f34`. Font: Sora.
-- Email: `hello@lumoradental.com` (placeholder). Phone in footer is template placeholder.
+- Email: `prasannakumar@gmail.com`. Phone: `8309687782`.
 
 ## Wiring
 - Nav/footer links are local `.html` files. All "Book/Get Appointment" CTAs (×6) →
