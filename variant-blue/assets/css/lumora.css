@@ -9137,3 +9137,17 @@ footer{border-top:3px solid var(--primitive-color--primary-500,#2f80ff);}
 
 /* team-header-readability */
 .section_team .home-team_header-title,.section_team .home-team_header-para{text-shadow:0 2px 14px rgba(0,0,0,.45);}
+
+/* Safety: reveal/portrait/blog images must never stay blurred (no leftover IX2 blur) */
+.team_image,.blog-item_image,.our-story_image,.about-hero_image,.home-value_image{filter:none !important;-webkit-filter:none !important;}
+
+/* Center single doctor card in team section */
+.team_list {
+  display: flex !important;
+  justify-content: center !important;
+  flex-wrap: wrap !important;
+}
+.team_list .w-dyn-item {
+  width: 100% !important;
+  max-width: 380px !important;
+}
